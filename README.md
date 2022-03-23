@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @paulinelgr, I'm 21 years old and I live in France
+- 🌱 I’m currently in my 4th year at ISEN Lille (engineering school), specializing in e-health.
+- 💞️ I’m passionate about new technologies and I want to apply my skills to the medical field.
+- 📫 How to reach me : 
+-       LinkedIn : https://www.linkedin.com/in/pauline-leger-075188177
+-       Mail : pauline.leger@student.junia.com
