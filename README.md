@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @paulinelgr, I'm 22 years old and I live in France/Canada.
-- 🌱 I’m currently in my 5th year at Junia ISEN Lille (engineering school), specializing in e-health & at ÉTS Montréal in double degree, for a master in engineering in healthcare technology.
-- 💞️ I’m passionate about new technologies and I want to apply my skills to the medical field.
-- 📫 How to reach me : 
--       LinkedIn : https://www.linkedin.com/in/pauline-leger-075188177
--       Mail : pauline.leger@student.junia.com
+
